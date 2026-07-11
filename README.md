@@ -214,14 +214,13 @@ aparece em buscas nem no seu canal.
 
 ### Para onde enviar
 
-Mande **o link do seu fork** para **lucas@dg.energy**, com o assunto:
+A entrega é feita **pelo formulário**, não por e-mail:
 
-```
-Desafio Data Science — <seu nome completo>
-```
+**https://docs.google.com/forms/d/e/1FAIpQLScTl1ABscrQ2yHR-dSzu58wE73qj-zPiPVyBOvvjMsdUWfaAQ/viewform**
 
-O link do vídeo estará no `README.md` do fork — não precisa mandar separado.
+Você só precisa do **link do seu fork** — o link do vídeo estará no `README.md` dele.
 
+> **Precisando se comunicar durante o teste?** Escreva para **lucas@dg.energy**. Use esse e-mail.
 ---
 
 ## Como avaliamos
