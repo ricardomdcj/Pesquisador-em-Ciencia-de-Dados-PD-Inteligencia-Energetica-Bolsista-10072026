@@ -1,6 +1,6 @@
 # Desafio Digital Grid - Ricardo M. D. C. Junior
 
-🎥 **Vídeo de apresentação:** https://youtu.be/SUBSTITUIR_PELO_LINK
+🎥 **Vídeo de apresentação:** https://youtu.be/3ly-GJb-NsY
 
 Solução completa no [solucao.ipynb](solucao.ipynb) — resumo no [SOLUCAO.md](SOLUCAO.md).
 
