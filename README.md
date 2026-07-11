@@ -1,3 +1,11 @@
+# Desafio Digital Grid - Ricardo M. D. C. Junior
+
+🎥 **Vídeo de apresentação:** https://youtu.be/SUBSTITUIR_PELO_LINK
+
+Solução completa no [solucao.ipynb](solucao.ipynb) — resumo no [SOLUCAO.md](SOLUCAO.md).
+
+---
+
 # Desafio Técnico de Data Science — Digital Grid
 
 Vaga: Pesquisador em Ciência de Dados — P&D Inteligência Energética (Bolsista)
