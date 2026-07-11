@@ -49,10 +49,7 @@ prontos para análise. Ela deve ser **idempotente** (rodar duas vezes dá o mesm
 resultado) e deve produzir um **relatório de qualidade**: uma tabela com quantos
 registros entraram, quantos foram descartados ou corrigidos, e **por quê**.
 
-Documente cada decisão de limpeza. Não existe resposta única — existe decisão
-justificada. O que não aceitamos é limpeza silenciosa.
-
-> Esta questão vale mais do que parece. Tudo que vem depois depende dela.
+Documente cada decisão de limpeza. Não existe resposta única. Porém, as decisões precisam ser bem justificadas.
 
 ---
 
@@ -185,13 +182,14 @@ Desafio Data Science — <seu nome completo>
 
 ## Como avaliamos
 
-| Critério de Avaliação |
-| --- | --- |
-*Qualidade de dados (Q0/Q5)** — as anomalias que você encontrou e como as tratou |
-| **Rigor na modelagem (Q3)** — o *porquê* por trás das métricas, não o número |
-| **Lógica de negócio (Q4)** — a priorização é defensável? conversa com a Q3? |
-| **Correção técnica (Q1/Q2)** — fórmulas certas, código vetorizado, em funções |
-| **Insight acionável (Q5)** |
-| **Comunicação (notebook + vídeo)** |
+Em ordem de peso:
+
+1. **Qualidade de dados (Q0/Q5)** — as anomalias que você encontrou e como as tratou.
+   É o critério que mais pesa, de longe.
+2. **Rigor na modelagem (Q3)** — o *porquê* por trás das métricas, não o número.
+3. **Lógica de negócio (Q4)** — a priorização é defensável? conversa com a Q3?
+4. **Correção técnica (Q1/Q2)** — fórmulas certas, código vetorizado, em funções.
+5. **Insight acionável (Q5)** — algo que alguém possa fazer na segunda-feira.
+6. **Comunicação** — notebook legível e vídeo sem jargão.
 
 Boa sorte.
